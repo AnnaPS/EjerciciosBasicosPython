@@ -57,6 +57,7 @@ cadenas:
     iv. DIVIDIR (/) El último elemento de la lista par entre el primer
     elemento de la lista par y añadirlo al principio de la lista que
     corresponda.
+    
     v. SUMAR (+) El segundo elemento de la lista impar + el tercer
     elemento de la lista par + el último elemento de la lista impar y
     añadirlo en el punto medio de la lista que corresponda.
